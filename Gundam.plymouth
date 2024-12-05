@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Gundam
+Description=laptop
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Gundam
+ScriptFile=/usr/share/plymouth/themes/Gundam/animated-boot.script
